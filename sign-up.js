@@ -199,12 +199,12 @@ function directFunction() {
   //   alert("Success!");
   // }
 
-  function showSuccess(){
+
   
 let ourbutton = document.getElementById("submit");
-ourbutton.addEventListener("click", function() {
+ourbutton.addEventListener("click", function showSuccess() {
 });
 alert("Success!");
   
-  }
+
 
