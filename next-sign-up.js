@@ -68,7 +68,7 @@
 
   //replace with the link of previous page
   function newDoc() {
-    window.location.href = "sign up page deliverers.html";
+    window.location.href = "index.html";
   }
 
 
