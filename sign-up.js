@@ -1,16 +1,4 @@
-
-
-//   let buttonNext = document.getElementById("submit");
-
-//   buttonNext.addEventListener("click", function () {
-// /* <a href ="next sign up page deliverers.html"></a> */
-// console.log("Button clicked.");
-//   }
-
-
-
-
-
+//This is the js for index.html
 
 
 //This is the direct users back to the sign up form after clicking one of the "sign up now" buttons. 
@@ -201,10 +189,12 @@ function directFunction() {
 
 
   
-let ourbutton = document.getElementById("submit");
-ourbutton.addEventListener("click", function showSuccess() {
-});
-alert("Success!");
+// let ourbutton = document.getElementById("submit");
+// ourbutton.addEventListener("click", function showSuccess() {
+// });
+// alert("Success!");
   
-
+  function showSuccess() {
+  window.location.href = "next sign up page deliverers.html";
+  }
 
